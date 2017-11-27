@@ -1,0 +1,3 @@
+('2017-10-19 12:04:32', 'D:\\Projects\\Sandbox\\SequoiaWebSite\\Sequoia.buildplan.Jenkins.xml')
+('2017-10-19 14:54:10', 'D:\\Projects\\Sandbox\\SequoiaWebSite\\Sequoia.buildplan.Jenkins-bak.xml')
+('2017-10-12 16:50:43', 'D:\\Projects\\Sandbox\\SequoiaWebSite\\Sequoia.CliqStudios\\Web.FolderPublish.config')

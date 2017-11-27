@@ -1,0 +1,6 @@
+('2017-10-19 14:54:10', 'D:\\Projects\\Sandbox\\SequoiaWebSite\\Sequoia.buildplan.Jenkins-bak.xml')
+('2017-10-19 12:04:32', 'D:\\Projects\\Sandbox\\SequoiaWebSite\\Sequoia.buildplan.Jenkins.xml')
+('2017-10-17 16:51:23', 'D:\\Projects\\Sandbox\\SequoiaWebSite\\Sequoia.Admin\\Properties\\PublishProfiles\\FolderPublish.pubxml.user')
+('2017-10-12 16:50:43', 'D:\\Projects\\Sandbox\\SequoiaWebSite\\Sequoia.CliqStudios\\Web.FolderPublish.config')
+('2017-10-12 16:49:48', 'D:\\Projects\\Sandbox\\SequoiaWebSite\\Sequoia.CliqStudios\\Properties\\PublishProfiles\\FolderPublish.pubxml.user')
+('2017-10-11 18:47:43', 'D:\\Projects\\Sandbox\\SequoiaWebSite\\Sequoia.CliqStudios\\Properties\\PublishProfiles\\Package.pubxml.user')

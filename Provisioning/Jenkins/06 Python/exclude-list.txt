@@ -1,0 +1,17 @@
+/downloads
+/images
+/media
+/obj
+/Properties
+/web
+*.sln
+*.cs
+*.csproj
+*.xml
+*.snk
+*.user
+*.html
+*.htm
+*.css
+*.zip
+*.cmd
